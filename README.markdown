@@ -1,4 +1,4 @@
-# QuickParkAssistApp
+# Smart Park Assist
 
 ## Overview
 
