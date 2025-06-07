@@ -43,21 +43,27 @@ Smart Park Assist is a backend application built with Spring Boot, designed to s
 - View bookings by ID, vehicle ID, user contact, spot ID, or date and location.
 - Cancel or update existing bookings.
 
+
+**Screenshot**: *Booking Dashboard*  
+![Booking Confirmation](screenshots/Booking-Management.png)  
+*Caption*: Navigation dashboard for booking service.
+
+
 **Screenshot**: *Booking Confirmation*  
 ![Booking Confirmation](screenshots/booking-confirmation.png)  
 *Caption*: Confirmation screen after successfully booking a parking spot.
 
-### 5. Add-On Services
-- Add optional services (e.g., car wash, EV charging) to bookings.
-- View add-ons by ID, vehicle type, or rating.
 
-**Screenshot**: *Add-On Selection*  
-![Add-On Selection](screenshots/add-on-selection.png)  
-*Caption*: Interface for selecting add-on services during booking.
-
-### 6. Payment Processing
+### 5. Payment Processing
 - Record payment details, including parking charges, add-on fees, discounts, and EV recharge amounts.
 - (Planned) View payment history for users or bookings.
+
+
+**Screenshot**: *Payment Summary*  
+![Payment Summary](screenshots/payment-gateway.png)  
+*Caption*: Payment gateway to proceed with payment of booking.
+
+
 
 **Screenshot**: *Payment Summary*  
 ![Payment Summary](screenshots/payment-summary.png)  
