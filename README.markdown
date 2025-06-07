@@ -2,7 +2,7 @@
 
 ## Overview
 
-QuickParkAssistApp is a backend application built with Spring Boot, designed to simplify parking management through a RESTful API. It enables users to book parking spots, manage vehicles, add optional services (e.g., EV charging, car wash), and process payments. The system supports both vehicle owners and parking spot owners, providing a seamless way to reserve and manage parking spaces based on location, vehicle type, and availability.
+Smart Park Assist is a backend application built with Spring Boot, designed to simplify parking management through a RESTful API. It enables users to book parking spots, manage vehicles, add optional services (e.g., EV charging, car wash), and process payments. The system supports both vehicle owners and parking spot owners, providing a seamless way to reserve and manage parking spaces based on location, vehicle type, and availability.
 
 **Screenshot**: *Application Dashboard*  
 ![Application Dashboard](screenshots/application-dashboard.png)  
