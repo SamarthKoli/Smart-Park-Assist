@@ -4,7 +4,7 @@
 
 Smart Park Assist is a backend application built with Spring Boot, designed to simplify parking management through a RESTful API. It enables users to book parking spots, manage vehicles, add optional services (e.g., EV charging, car wash), and process payments. The system supports both vehicle owners and parking spot owners, providing a seamless way to reserve and manage parking spaces based on location, vehicle type, and availability.
 
-Notice
+# Notice
 
 Due to policy restrictions from Infosys Springboard, the source code for this project cannot be shared publicly in this repository. For inquiries, discussions, or further details about the project, please contact me at samarth.s.koli@gmail.com.
 
