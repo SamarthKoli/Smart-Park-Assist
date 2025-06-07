@@ -63,20 +63,4 @@ Smart Park Assist is a backend application built with Spring Boot, designed to s
 ![Payment Summary](screenshots/payment-summary.png)  
 *Caption*: Summary of charges, including parking and add-on fees.
 
----
 
-## Screenshots
-
-**API Response**  
-![API Response](screenshots/api-response.png)  
-*Caption*: JSON response from the booking retrieval endpoint.
-
-**Error Response**  
-![Error Response](screenshots/error-response.png)  
-*Caption*: Error response for a failed booking attempt due to a conflict.
-
-**Database Schema**  
-![Database Schema](screenshots/database-schema.png)  
-*Caption*: MySQL Workbench showing the database schema for parking management.
-
----
