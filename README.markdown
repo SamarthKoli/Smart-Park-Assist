@@ -45,7 +45,7 @@ Smart Park Assist is a backend application built with Spring Boot, designed to s
 
 
 **Screenshot**: *Booking Dashboard*  
-![Booking Confirmation](screenshots/Booking-Management.png)  
+![Booking Dashboard](screenshots/booking-management.png)  
 *Caption*: Navigation dashboard for booking service.
 
 
